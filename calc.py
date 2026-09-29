@@ -1,1 +1,1 @@
- def subtract(a, b): return a - b
+ลบทุกอย่างทิ้งcat calc.py!
