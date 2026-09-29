@@ -1,1 +1,2 @@
-ลบทุกอย่างทิ้งcat calc.py!
+
+ def subtract(a, b): return a - b
