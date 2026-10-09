@@ -1,2 +1,2 @@
-echo##วิธีใช้ รัน python calc.py
+## เครื่องคิดเลขของบ๊๊อบ
 ##วิธีใช้ รัน python calc.py
